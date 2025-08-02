@@ -5,7 +5,7 @@ Apasionado por crear soluciones eficientes, escalables y centradas en el usuario
 Me enfoco en escribir código limpio y aplicar buenas prácticas en todo el ciclo de desarrollo.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngePapitas&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IngePapitas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngePapitas&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
 ---
 
